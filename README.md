@@ -1,7 +1,10 @@
 Data
 • Consider the data file provided to you (Will be uploaded)
+
 • Each row of the file is a sentence. Whitespace characters separate the words
+
 • Read the data file to create a Boolean matrix 𝐷where
+
 • 𝐷𝑖𝑗is 1 if and only if sentence 𝑖contains word 𝑗
 • Use LA operations to create the word cooccurrence matrix 𝐶where
 • 𝐶𝑖𝑗should store the number of sentences in which both 𝑖and 𝑗are present
